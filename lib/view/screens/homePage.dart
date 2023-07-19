@@ -165,7 +165,6 @@ class CarouselWithIndicatorDemo extends StatefulWidget {
     return _CarouselWithIndicatorState();
   }
 }
-
 class _CarouselWithIndicatorState extends State<CarouselWithIndicatorDemo> {
   int _current = 0;
   final CarouselController _controller = CarouselController();
