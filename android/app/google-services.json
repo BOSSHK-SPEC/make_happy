@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554453211095",
+    "project_id": "makehappy-3f0bf",
+    "storage_bucket": "makehappy-3f0bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554453211095:android:2368326cb9edd37c189d92",
+        "android_client_info": {
+          "package_name": "com.example.make_happy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554453211095-uvgr7sppf6vuqk94g8i18i62i0maamr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOSD4Oa8SzKi176iy3iyN2dW_Quew6Vik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554453211095-uvgr7sppf6vuqk94g8i18i62i0maamr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
